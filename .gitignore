@@ -1,0 +1,5 @@
+build/
+Thirdparty/DBoW2/lib/
+Thirdparty/g2o/lib/
+Vocabulary/ORBvoc.txt
+lib/
